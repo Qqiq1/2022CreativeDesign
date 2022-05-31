@@ -1,10 +1,10 @@
-/*.json
+./*.json
 
 *.DS_Store
 
-/data/
-/node_modules/
+./data/
+./node_modules/
 
-/commands/temp/
+./commands/temp/
 
 !package.json
