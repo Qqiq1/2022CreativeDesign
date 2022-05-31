@@ -5,7 +5,7 @@ module.exports = {
     description: "프로필",
     execute(message) {
 		const embed = new Discord.MessageEmbed()
-		.setAuthor("JSHS_Discord_Bot", "https://pbs.twimg.com/media/E2HwwaQVkAQv9gy.jpg")
+		.setAuthor("2022CreativeDesign", "https://pbs.twimg.com/media/E2HwwaQVkAQv9gy.jpg")
 		.setColor(0xFFB68F)
 		.setTitle("Github Link")
 		.setURL("https://github.com/kakunge/Study/tree/main/JSHS_Discord_Bot")

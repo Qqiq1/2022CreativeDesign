@@ -1,11 +1,10 @@
 {
-  "name": "jshs_discord_bot",
-  "version": "2.0.0",
+  "name": "CreativeDesign_discord_bot",
+  "version": "1.0.0",
   "description": "pre-service",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "author": "kakunge",
   "license": "ISC",
@@ -21,6 +20,6 @@
     "fluent-ffmpeg": "^2.1.2",
     "node-gyp": "^8.2.0",
     "node-opus": "^0.3.3",
-    "ytdl-core": "^4.10.1"
+    "ytdl-core": "^4.11.0"
   }
 }
