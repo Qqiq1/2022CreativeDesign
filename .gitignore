@@ -1,0 +1,10 @@
+/*.json
+
+*.DS_Store
+
+/data/
+/node_modules/
+
+/commands/temp/
+
+!package.json
